@@ -1,0 +1,11 @@
+# Invalido: q0 com 0 vai para dois destinos
+estados: q0 q1
+alfabeto: 0 1
+inicial: q0
+finais: q1
+transicoes:
+q0 0 q0
+q0 0 q1
+q0 1 q0
+q1 0 q1
+q1 1 q1
