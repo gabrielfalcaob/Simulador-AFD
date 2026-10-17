@@ -4,7 +4,7 @@ Trabalho 1 de Linguagens Formais e Autômatos.
 
 Programa em PHP, executado pelo terminal, que recebe a definição de um Autômato Finito Determinístico e diz se cadeias digitadas pertencem ou não à linguagem dele.
 
-**Integrantes:** _(nomes do grupo)_
+**Integrantes:** Marcos Gabriel Falcão Borges
 
 ## Requisitos
 
